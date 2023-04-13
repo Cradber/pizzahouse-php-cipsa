@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Models\Ingredients;
-use http\Env\Response;
 use Illuminate\Http\Request;
 
 class IngredientsController extends Controller
